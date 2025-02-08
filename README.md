@@ -56,7 +56,7 @@ Passos
 
 Clone este repositório:
 
-git clone https://github.com/paolacostxx/tccautomacaoarduino.git
+git clone https://github.com/MoniqueCostta/TCCautomacaoArduino,git
 
 Instale as bibliotecas necessárias na Arduino IDE:
 
